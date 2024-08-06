@@ -2,9 +2,15 @@ body {
     background-image:url(/home/imgs/dotbg.png);
 }
 .main {
-    border: 3px dotted #7d798d; 
+    border: 2px dotted #7d798d; 
     border-radius: 10px;
     background-color: #f8fdea;
+    margin: auto; 
+    margin-bottom: 2%;
+    margin-top: 2%;
+    text-align: center;
+}
+.container {
     margin: auto; 
     width: 60%; 
     margin-bottom: 2%;
