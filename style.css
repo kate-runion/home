@@ -16,7 +16,8 @@ body {
     margin: auto; 
     margin-bottom: 2%;
     margin-top: 2%;
-    text-align: center;
+    background-image:url(/home/imgs/cloverbg.png);
+    background-size: cover;
 }
 .container {
     margin: auto; 
