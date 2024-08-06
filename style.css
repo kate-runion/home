@@ -11,6 +11,7 @@ body {
     text-align: center;
 }
 .container {
+    border: 2px dotted #7d798d;
     margin: auto; 
     width: 60%; 
     margin-bottom: 2%;
