@@ -11,6 +11,17 @@ body {
     margin-left: 1%;
     padding: 2%;
 }
+.link {
+    border: 2px dotted #7d798d; 
+    border-radius: 10px;
+    background-color: #f8fdea;
+    margin: auto; 
+    margin-bottom: 2%;
+    margin-top: 2%;
+    margin-left: 1%;
+    padding: 2%;
+    width: 18%;
+}
 .mainttl {
     border: 2px dotted #7d798d; 
     border-radius: 10px;
